@@ -1,9 +1,9 @@
 {
-    "name": "hoc2024-md-tree-master",
+    "name": "hoc2024-md-1-tree-master",
     "dependencies": {
         "core": "*",
         "builder": "*",
-        "hoc2024-md": "github:fc-minecraft/hoc2024-md"
+        "hoc2024-md-1": "github:fc-minecraft/hoc2024-md-1"
     },
     "files": [
         "main.blocks",

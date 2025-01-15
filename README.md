@@ -1,5 +1,5 @@
 
-> Open this page at [https://neonerz.github.io/hoc2024-md/](https://neonerz.github.io/hoc2024-md/)
+> Open this page at [https://neonerz.github.io/hoc2024-md-1/](https://neonerz.github.io/hoc2024-md-1/)
 
 ## Use as Extension
 
@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://minecraft.makecode.com/](https://minecraft.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/neonerz/hoc2024-md** and import
+* search for **https://github.com/neonerz/hoc2024-md-1** and import
 
 ## Edit this project
 
@@ -16,7 +16,7 @@ To edit this repository in MakeCode.
 
 * open [https://minecraft.makecode.com/](https://minecraft.makecode.com/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/neonerz/hoc2024-md** and click import
+* paste **https://github.com/neonerz/hoc2024-md-1** and click import
 
 #### Metadata (used for search, rendering)
 
