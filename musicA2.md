@@ -23,5 +23,5 @@ Add the ``||hoc:Xylophone||`` to the top of the code.
 ```
 
 ```package
-hoc2024-ts=github:ReWrite-Media/hoc2024-ts/n/music
+hoc2024-ts=github:fc-minecraft/hoc2024-ts/n/music
 ```
